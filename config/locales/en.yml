@@ -30,4 +30,9 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  sample_app: "Sample App"
+  homepage: "This is the home page for the"
+  sample_application: "sample application"
+  tutorial: "Ruby on Rails Tutorial"
+  tutorial_help_page: "Rails Tutorial help page"
+  get_help: "Get help on the Ruby on Rails Tutorial at the"
