@@ -15,6 +15,6 @@ class User < ApplicationRecord
   private
 
   def email_downcase
-    self.email = email_downcase!
+    email.downcase!
   end
 end
