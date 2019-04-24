@@ -7,4 +7,8 @@ vi:
   get_help: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
   help: "giúp đỡ"
   home: "Trang chủ"
-
+  new: "Mới"
+  login: "Đăng nhập"
+  home_pages: "Đây là trang chủ cho"
+  welcome_sample: "Chào mừng đến với ứng dụng mẫu"
+  sign_up: "Đăng ký ngay bây giờ"
