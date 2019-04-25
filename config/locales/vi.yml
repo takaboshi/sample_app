@@ -23,6 +23,7 @@ vi:
   error_find_user: "Không tìm thấy người dùng"
   invalid_email: "email / mật khẩu không hợp lệ"
   new_user: "người dùng mới?"
+  remember_me: "Nhớ tôi trên máy tính này"
   user: "Người dùng"
   account: "Tài khoản"
   profile: "Hồ sơ"

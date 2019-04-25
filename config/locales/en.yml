@@ -23,6 +23,7 @@ en:
   error_find_user: "user not found"
   invalid_email: "Invalid email/password combination"
   new_user: "New user?"
+  remember_me: "Remember me on this computer"
   user: "Users"
   account: "Account"
   profile: "Profile"
