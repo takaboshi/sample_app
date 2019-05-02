@@ -10,7 +10,7 @@ class User < ApplicationRecord
                     format: {with: VALID_EMAIL_REGEX},
                     uniqueness: {case_sensitive: false}
   validates :password, presence: true,
-            length: {maximum: Settings.validates_user.min_password}
+            length: {minimum: Settings.validates_user.min_password}, allow_nil: true
   has_secure_password
 
   class << self
